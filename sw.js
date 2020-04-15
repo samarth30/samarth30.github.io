@@ -4,7 +4,7 @@ const assets = [
     '/Portfolio/index.html',
     '/style.css',
     '/Portfolio/assets/img/mobile.png',
-    '/Portfolio/assets/img/favicon.png',
+    '/Portfolio/assets/img/favicon1.ico',
     'https://fonts.googleapis.com/css?family=Lato:300,400,700'
 ];
 // install event
