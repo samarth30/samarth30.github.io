@@ -4,7 +4,6 @@ const assets = [
     '/Portfolio/index.html',
     '/Portfolio/contact.html',
     '/Portfolio/work.html',
-    '/Portfolio/404.html',
     '/style.css',
     '/Portfolio/assets/img/mobile.png',
     '/Portfolio/assets/img/favicon1.ico',

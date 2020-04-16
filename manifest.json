@@ -8,7 +8,7 @@
     "orientation": "portrait-primary",
     "icons": [
       {
-        "src": "/Portfolio/assets/img/apple-touch-icon-72x72.png",
+        "src": "/Portfolio/assets/img/favicon1.ico",
         "type": "image/png", 
         "sizes": "72x72"
       },
